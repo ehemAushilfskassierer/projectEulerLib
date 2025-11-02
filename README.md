@@ -28,7 +28,8 @@ I share these solutions on YouTube, Instagram, and TikTok. If you're interested,
 | 019    | Counting Sundays                   | Python   | [problem_019.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_019.ipynb) | ☑    |
 | 020    | Factorial Digit Sum                | Python   | [problem_020.py](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_020.py) | ☑    |
 | 021    | Amicable Numbers                   | Python   | [problem_021.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_021.ipynb) | ☑    |
-| 022    | Names Scores                       | Python   | —                                                                          | ☐    |
+| 022    | Names Scores                       | Python   | [problem_022.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_022.ipynb) | ☑    |
+| 022    | Non-Abundant Sums | Python   | [problem_023.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_023.ipynb) | ☑    |
 
 ---
 
