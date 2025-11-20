@@ -33,6 +33,7 @@ I share these solutions on YouTube, Instagram, and TikTok. If you're interested,
 | 024    | Lexicographic Permutations | Python   | [problem_024.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_024.ipynb) | ☑    |
 | 025    | 1000-digit Fibonacci Number | Python   | [problem_025.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_025.ipynb) | ☑    |
 | 026    | 	Reciprocal Cycles | Python   | [problem_026.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_026.ipynb) | ☑    |
+| 027    | 	Quadratic Primes | Python   | [problem_027.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_027.ipynb) | ☑    |
 
 ---
 
