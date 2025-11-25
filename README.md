@@ -34,6 +34,8 @@ I share these solutions on YouTube, Instagram, and TikTok. If you're interested,
 | 025    | 1000-digit Fibonacci Number | Python   | [problem_025.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_025.ipynb) | ☑    |
 | 026    | 	Reciprocal Cycles | Python   | [problem_026.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_026.ipynb) | ☑    |
 | 027    | 	Quadratic Primes | Python   | [problem_027.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_027.ipynb) | ☑    |
+| 028    | 	Number Spiral Diagonals | Python   | [problem_028.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_028.ipynb) | ☑    |
+| 029    | 	Distinct Powers | Python   | [problem_029.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_029.ipynb) | ☑    |
 
 ---
 
