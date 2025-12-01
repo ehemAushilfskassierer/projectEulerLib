@@ -36,6 +36,8 @@ I share these solutions on YouTube, Instagram, and TikTok. If you're interested,
 | 027    | 	Quadratic Primes | Python   | [problem_027.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_027.ipynb) | ☑    |
 | 028    | 	Number Spiral Diagonals | Python   | [problem_028.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_028.ipynb) | ☑    |
 | 029    | 	Distinct Powers | Python   | [problem_029.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_029.ipynb) | ☑    |
+| 030    | 	Digit Fifth Powers | Python   | [problem_030.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_030.ipynb) | ☑    |
+| 031    | 	Coin Sums | Python   | [problem_031.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_031.ipynb) | ☑    |
 
 ---
 
