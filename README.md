@@ -38,6 +38,7 @@ I share these solutions on YouTube, Instagram, and TikTok. If you're interested,
 | 029    | 	Distinct Powers | Python   | [problem_029.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_029.ipynb) | ☑    |
 | 030    | 	Digit Fifth Powers | Python   | [problem_030.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_030.ipynb) | ☑    |
 | 031    | 	Coin Sums | Python   | [problem_031.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_031.ipynb) | ☑    |
+| 032    |  Pandigital Products | Python   | [problem_032.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_032.ipynb) | ☑    |
 
 ---
 
