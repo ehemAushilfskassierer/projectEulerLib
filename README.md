@@ -40,6 +40,7 @@ I share these solutions on YouTube, Instagram, and TikTok. If you're interested,
 | 031    | 	Coin Sums | Python   | [problem_031.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_031.ipynb) | ☑    |
 | 032    |  Pandigital Products | Python   | [problem_032.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_032.ipynb) | ☑    |
 | 033    |  Digit Cancelling Fractions | Python   | [problem_033.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_033.ipynb) | ☑    |
+| 034    |  Digit Factorials | Python   | [problem_034.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_034.ipynb) | ☑    |
 
 ---
 
