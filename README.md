@@ -44,6 +44,7 @@ I share these solutions on YouTube, Instagram, and TikTok. If you're interested,
 | 035    |  Circular Primes | Python   | [problem_035.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_035.ipynb) | ☑    |
 | 036    |  Double-base Palindromes | Python   | [problem_036.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_036.ipynb) | ☑    |
 | 037    |  Truncatable Primes | Python   | [problem_037.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_037.ipynb) | ☑    |
+| 038    |  Pandigital Multiples | Python   | [problem_038.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_038.ipynb) | ☑    |
 
 ---
 
