@@ -5,8 +5,8 @@ I aim to showcase my mathematical and programming skills by solving Project Eule
 
 I share these solutions on YouTube, Instagram, and TikTok. If you're interested, check out the links at the end of this README.
 
-| Number | Title                              | Language | Link to File                                                                 | Done |
-|--------|------------------------------------|----------|----------------------------------------------------------------------------|------|
+| Number | Title                              | Language | Link to File                                                                                                         | Done |
+|--------|------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------|------|
 | 001    | Multiples of 3 or 5                | Python   | [problem_001.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_001.ipynb) | ☑    |
 | 002    | Even Fibonacci Numbers             | Python   | [problem_002.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_002.ipynb) | ☑    |
 | 003    | Largest Prime Factor               | Python   | [problem_003.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_003.ipynb) | ☑    |
@@ -22,11 +22,11 @@ I share these solutions on YouTube, Instagram, and TikTok. If you're interested,
 | 013    | Large Sum                          | Python   | [problem_013.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_013.ipynb) | ☑    |
 | 014    | Longest Collatz Sequence           | Python   | [problem_014.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_014.ipynb) | ☑    |
 | 015    | Lattice Paths                      | Python   | [problem_015.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_015.ipynb) | ☑    |
-| 016    | Power Digit Sum                    | Python   | [problem_016.py](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_016.py) | ☑    |
-| 017    | Number Letter Counts               | Python   | [problem_017.py](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_017.py) | ☑    |
+| 016    | Power Digit Sum                    | Python   | [problem_016.py](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_016.py)       | ☑    |
+| 017    | Number Letter Counts               | Python   | [problem_017.py](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_017.py)       | ☑    |
 | 018    | Maximum Path Sum I                 | Python   | [problem_018.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_018.ipynb) | ☑    |
 | 019    | Counting Sundays                   | Python   | [problem_019.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_019.ipynb) | ☑    |
-| 020    | Factorial Digit Sum                | Python   | [problem_020.py](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_020.py) | ☑    |
+| 020    | Factorial Digit Sum                | Python   | [problem_020.py](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_020.py)       | ☑    |
 | 021    | Amicable Numbers                   | Python   | [problem_021.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_021.ipynb) | ☑    |
 | 022    | Names Scores                       | Python   | [problem_022.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_022.ipynb) | ☑    |
 | 023    | Non-Abundant Sums | Python   | [problem_023.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_023.ipynb) | ☑    |
@@ -45,6 +45,8 @@ I share these solutions on YouTube, Instagram, and TikTok. If you're interested,
 | 036    |  Double-base Palindromes | Python   | [problem_036.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_036.ipynb) | ☑    |
 | 037    |  Truncatable Primes | Python   | [problem_037.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_037.ipynb) | ☑    |
 | 038    |  Pandigital Multiples | Python   | [problem_038.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_038.ipynb) | ☑    |
+| 039    |  Integer Right Triangles | Python   | [problem_039.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_039.ipynb) | ☑    |
+| 040    |  Champernowne's Constant | Python   | [problem_040.ipynb](https://github.com/ehemAushilfskassierer/projectEulerLib/blob/master/eulerLib/problem_040.ipynb) | ☑    |
 
 ---
 
